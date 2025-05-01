@@ -1,9 +1,6 @@
 # FUNHIFACTORY - Project : 마지막 1초
 iOS 채팅형 스토리 게임입니다. xcode를 사용해서 만든 네이티브 앱입니다.
 
-
-![Image](https://github.com/user-attachments/assets/e0d8d638-818d-48ea-995b-c6a60a3ff5e7)
-
 ### 내가 기여한 부분
 
 메인 게임 페이지 제작
@@ -36,3 +33,7 @@ iOS 채팅형 스토리 게임입니다. xcode를 사용해서 만든 네이티�
     - 게임의 구현 대부분을 Swift를 사용했습니다.
 - JSON
     - 스토리 데이터를 JSON을 사용해서 저장했습니다.
+
+### 인게임 플레이
+![Image](https://github.com/user-attachments/assets/e0d8d638-818d-48ea-995b-c6a60a3ff5e7)
+![image](https://github.com/user-attachments/assets/0986f35f-adad-4638-9897-f88833f091bc)
